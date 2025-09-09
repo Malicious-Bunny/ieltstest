@@ -66,8 +66,8 @@ export default function WhyChoose() {
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-4">
                 <img
-                  src="https://ext.same-assets.com/2498427149/1425192782.webp"
-                  alt="IELTS Certificate Process"
+                  src="https://www.schiller.edu/media/s0ubvqla/international-students-during-english-preparations.webp"
+                  alt="International students preparing for IELTS English exam"
                   className="w-full rounded-lg shadow-xl"
                 />
                 <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6 text-white">
@@ -77,8 +77,8 @@ export default function WhyChoose() {
               </div>
               <div className="mt-8">
                 <img
-                  src="https://ext.same-assets.com/2498427149/677659572.webp"
-                  alt="Happy Customer"
+                  src="https://motto-jp.com/media/wp-content/uploads/2020/09/AdobeStock_295766623.jpeg"
+                  alt="Student studying in library for English language exam preparation"
                   className="w-full rounded-lg shadow-xl"
                 />
                 <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6 text-white mt-4">

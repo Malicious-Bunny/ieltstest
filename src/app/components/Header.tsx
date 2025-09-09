@@ -22,26 +22,7 @@ export default function Header() {
               </a>
             </div>
           </div>
-          <div className="flex items-center space-x-4">
-            <span>Follow Us On:</span>
-            <div className="flex space-x-2">
-              <a href="#" className="hover:opacity-75">
-                <FaTwitter className="w-5 h-5 text-white" />
-              </a>
-              <a href="#" className="hover:opacity-75">
-                <FaTwitter className="w-5 h-5 text-white" />
-              </a>
-              <a href="#" className="hover:opacity-75">
-                <FaYoutube className="w-5 h-5 text-white" />
-              </a>
-              <a href="#" className="hover:opacity-75">
-                <FaLinkedin className="w-5 h-5 text-white" />
-              </a>
-              <a href="#" className="hover:opacity-75">
-                <FaPinterest className="w-5 h-5 text-white" />
-              </a>
-            </div>
-          </div>
+
         </div>
       </div>
 

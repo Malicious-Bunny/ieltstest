@@ -7,8 +7,8 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 opacity-30">
         <img
-          src="https://ext.same-assets.com/2498427149/1558874626.webp"
-          alt="IELTS Test Background"
+          src="https://d3q9kdqrtloda.cloudfront.net/production/transformed-images/general/ielts-advertising-square/1285062/ive-got-this-advertising-campaign-man-holding-ielts-certificate_157f0d904d1544ba631b9156ab85c223.webp"
+          alt="Student holding IELTS certificate - Success in English language testing"
           className="w-full h-full object-cover"
         />
       </div>

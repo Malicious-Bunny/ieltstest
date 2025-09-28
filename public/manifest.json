@@ -1,0 +1,25 @@
+{
+  "name": "IELTS Certificate Services",
+  "short_name": "IELTS Cert",
+  "description": "Professional IELTS certificate services with authentic documentation. Get your desired IELTS band score certificate quickly and securely.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#20385c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
